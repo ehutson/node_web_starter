@@ -16,4 +16,4 @@ Point your browser at [http://localhost:8080](http://localhost:8080).
 
 To compile less:  `grunt less`.
 
-To autoreload when less files are modified: `grunt watch` or just `grunt`.
+To automatically reload (using livereload) when less files are modified: `grunt watch` or just `grunt`.
